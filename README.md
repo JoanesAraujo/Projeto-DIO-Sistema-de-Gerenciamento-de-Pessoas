@@ -13,4 +13,4 @@ Durante a sessão, foram desenvolvidos e abordados os seguintes tópicos:
 - Desenvolvimento de testes unitários para validação das funcionalidades
 - Implantação do sistema na nuvem através do Heroku
 
-## <img src="<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>" alt="graduated" style="zoom:25%;" />Aluno: Joanes Araújo
+## 👨‍🎓 Aluno: Joanes Araújo
